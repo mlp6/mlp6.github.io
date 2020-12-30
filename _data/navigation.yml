@@ -9,6 +9,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+  - title: "BME Design Fellows"
+    url: /bme-design-fellows/
+
   - title: "Portfolio"
     url: /portfolio/
         
