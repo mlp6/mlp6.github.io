@@ -8,17 +8,23 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Mark's website! This website serves syllabi and content for the
-courses that I teach, highlights recent research in acoustic radiation force
+This website contains syllabi and content for the courses that I teach in
+medical device design, including summaries of past and current student
+projects. I will also highlight recent research in acoustic radiation force
 imaging, tissue characterization with shear waves, and deep learning in
-medical imaging, my latest CV and occasionally some blog posts.
+medical imaging, and occasionally I'll upload some blog posts.
 
 # Teaching
-An overview of courses that I am actively teaching will go here.
+I actively teach [Medical Device Design I & II (BME473L &
+BME474L)](https://github.com/mlp6/Medical-Device-Design) as part of the BME
+Design Fellows program and senior capstone design. You can find a summary of
+some student design projects here: TODO: INSERT LINK TO DESIGN PROJECTS PAGE.
 
-* Medical Device Design I & II (BME473L & BME474L)
-* Medical Software Design (BME547)
-* Introduction to Medical Instrumentation (BME354L)
+I have also taught several other courses in the department, including
+Introduction to Medical Instrumentation (BME354L), and I have developed
+courses, including [Medical Software Design
+(BME547L)](https://github.com/mlp6/Medical-Software-Design/) and Biomedical
+Circuit Analysis (BME790L).
 
 # Research
 Active research topics will go here.
@@ -31,8 +37,12 @@ Active research topics will go here.
 * MSK
 
 ## Deep Learning
-* [MimickNet](https://github.com/ouwen/mimicknet): Matching clinical-grade ultrasound post-processing without the hassle.  This is work led by [Ouwen Huang](https://ouwen.io/).
-* Dermis Segmentation 
+* [MimickNet](https://github.com/ouwen/mimicknet): Matching clinical-grade
+  ultrasound post-processing without the hassle. This work is led by [Ouwen
+  Huang](https://ouwen.io/).
+* [Dermis Segmentation](https://github.com/fqjin/skin-segmentation): Two
+  methods for segmenting skin on ultrasound B-mode images. This work is led by
+  [Felix Jin](https://github.com/fqjin).
 
 # BME Design Fellows
 Details about the BME Design Fellows program will go here.
