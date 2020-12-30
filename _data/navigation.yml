@@ -1,8 +1,11 @@
 # main links links
 main:
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Medical Device Design (BME437L & BME474L)"
+    url: /medical-device-design/    
 
+  - title: "Teaching"
+    url: /teaching/
+    
   - title: "Research"
     url: /research/
     
