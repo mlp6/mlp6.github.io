@@ -13,31 +13,28 @@ courses that I teach, highlights recent research in acoustic radiation force
 imaging, tissue characterization with shear waves, and deep learning in
 medical imaging, my latest CV and occasionally some blog posts.
 
-Teaching
-======
+# Teaching
 An overview of courses that I am actively teaching will go here.
 
 * Medical Device Design I & II (BME473L & BME474L)
 * Medical Software Design (BME547)
 * Introduction to Medical Instrumentation (BME354L)
 
-Research
-======
+# Research
 Active research topics will go here.
 
-** Acoustic Radiation Force Impulse (ARFI) Imaging
+## Acoustic Radiation Force Impulse (ARFI) Imaging
 * Prostate
 
-** Shear Wave Elasticity Imaging **
+## Shear Wave Elasticity Imaging 
 * Prostate
 * MSK
 
-** Deep Learning **
-* MimickNet
+## Deep Learning
+* [MimickNet](https://github.com/ouwen/mimicknet): Matching clinical-grade ultrasound post-processing without the hassle.  This is work led by [Ouwen Huang](https://ouwen.io/).
 * Dermis Segmentation 
 
-BME Design Fellows
-------
+# BME Design Fellows
 Details about the BME Design Fellows program will go here.
 
 * Applications
