@@ -54,3 +54,7 @@ We highly value generating easily-accessible code and data for the research comm
 * [QIBA Ultrasound Shear Wave Speed Digital Phantoms](https://doi.org/10.7924/r4sj1f98c) are available online for validating SWEI algorithms in elastic and viscoelastic media.  The code associated with generating these data can be found here: [https://github.com/RSNA-QIBA-US-SWS/QIBA-DigitalPhantoms](https://github.com/RSNA-QIBA-US-SWS/QIBA-DigitalPhantoms).
 
 # COVID-19 Engineering Response Team
+I have been involved with a highly-collaborative, inter-departmental effort
+within the Pratt School of Engineering to help our medical center and campus
+deal with the COVID-19 pandemic. You can read more about our efforts here:
+[https://pratt.duke.edu/covid19/response-team](https://pratt.duke.edu/covid19/response-team).
