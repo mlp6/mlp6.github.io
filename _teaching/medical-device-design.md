@@ -8,7 +8,9 @@ date: 2021-01-01
 location: "Durham, NC USA"
 ---
 
-Medical Device Design I & II (BME473L & BME474L) is a two-semester course sequence that is part of the [BME Design Fellows](https://mlp6.github.io/bme-design-fellows) program and also an option for senior capstone design.  Below is a summary of some of the projects that student have worked on over the past several years.
+Medical Device Design I & II (BME473L & BME474L) is a two-semester course sequence that is part of the [BME Design Fellows](https://mlp6.github.io/bme-design-fellows) program and also an option for senior capstone design.  
+
+Below is a summary of some of the projects that student have worked on over the past several years.
 
 # Fall 2020 / Spring 2021
 [TODO]

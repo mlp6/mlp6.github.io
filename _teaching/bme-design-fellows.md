@@ -8,6 +8,9 @@ date: 2021-01-01
 location: "Durham, NC USA"
 ---
 
+The BME Design Fellows program was starting in Spring 2018 to help augment
+the preparation of our students for careers in the medical device design
+industry.
 # Mission
 The BME Design Fellows program was starting in the Spring 2018 semester.  It strives to accomplish several things:
 * Expand Duke BME's traditional one-semester design experience to two semesters.
