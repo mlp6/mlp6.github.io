@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/medical-device-design
 venue: "Duke University, Department of Biomedical Engineering"
-date: "Fall & Spring Semesters"
+date: 2021-01-01
 location: "Durham, NC USA"
 ---
 
