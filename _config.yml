@@ -184,7 +184,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  talks:
+  blog:
     output: true
     permalink: /:collection/:path/
 
