@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Palmeri Teaching & Rearch Activity @ Duke BME"
+title: "Palmeri Teaching & Research Activity @ Duke BME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
