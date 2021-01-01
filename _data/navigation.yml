@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Medical Device Design" 
-    url: /teaching/medical-device-design/    
+    url: /teaching/medical-device-design    
 
   - title: "Teaching"
     url: /teaching/
@@ -10,7 +10,7 @@ main:
     url: /research/
     
   - title: "BME Design Fellows"
-    url: /bme-design-fellows/
+    url: /bme-design-fellows
 
   - title: "Blog"
     url: /blog/
