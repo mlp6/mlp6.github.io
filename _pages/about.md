@@ -26,10 +26,10 @@ courses, including [Medical Software Design
 (BME547L)](https://github.com/mlp6/Medical-Software-Design/) and Biomedical
 Circuit Analysis (BME790L).
 
-# Research
-Latest research news will go here!
+# Latest Research News
+[TODO]
 
-## Open-Source Software and Data Repositories
+# Open-Source Software and Data Repositories
 We highly value generating easily-accessible code and data for the research community.  This list highlights some of our latest shared contributions:
 
 * [Acoustic Radiation Force FEM Tools](https://github.com/mlp6/fem): Templates for creating simulations of ARFI/SWEI excitations in elastic, viscoelastic and anisotropic media.  LS-DYNA is the primary solver used in these simulations.
