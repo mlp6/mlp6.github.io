@@ -8,7 +8,7 @@ date: 2021-01-01
 location: "Durham, NC USA"
 ---
 
-This is a comprehensive list of all of the open-source software and online data repositories that we have provided from our research.
+A comprehensive list of all of the open-source software and online data repositories that we have provided from our research.
 
 * [Acoustic Radiation Force FEM Tools](https://github.com/mlp6/fem): Templates for creating simulations of ARFI/SWEI excitations in elastic, viscoelastic and anisotropic media.  LS-DYNA is the primary solver used in these simulations.
 
