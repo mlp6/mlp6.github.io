@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dr. Palmeri's Website"
+title: "Palmeri Teaching & Rearch Activity @ Duke BME"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ medical imaging, and occasionally I'll upload some blog posts.
 I actively teach [Medical Device Design I & II (BME473L &
 BME474L)](https://github.com/mlp6/Medical-Device-Design) as part of the BME
 Design Fellows program and senior capstone design. You can find a summary of
-some student design projects here: TODO: INSERT LINK TO DESIGN PROJECTS PAGE.
+some student design projects here: [TODO].
 
 I have also taught several other courses in the department, including
 Introduction to Medical Instrumentation (BME354L), and I have developed
@@ -27,16 +27,7 @@ courses, including [Medical Software Design
 Circuit Analysis (BME790L).
 
 # Research
-Active research topics will go here.
-
-## Acoustic Radiation Force Impulse (ARFI) Imaging
-* Prostate
-
-## Shear Wave Elasticity Imaging 
-* Prostate
-* MSK
-
-## Deep Learning
+Latest research news will go here!
 
 ## Open-Source Software and Data Repositories
 We highly value generating easily-accessible code and data for the research community.  This list highlights some of our latest shared contributions:
