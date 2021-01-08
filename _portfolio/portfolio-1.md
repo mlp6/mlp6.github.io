@@ -1,7 +1,22 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Portfolio Template"
+excerpt: "Short description of project<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+This is a short description of the project.
+
+## Student Group
+* Student 1
+* Student 2
+* Student 3
+* Student 4
+
+## Problem Statement
+
+## Design Solution
+
+## Outcomes
+
+## Support
+In addition to the support provided by the [Department of Biomedical Engineering @ Duke University](https://bme.duke.edu), this project was also supported by [Duke MEDx](https://medx.duke.edu).
