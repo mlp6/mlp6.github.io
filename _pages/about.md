@@ -8,14 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This website contains syllabi and content for the courses that I teach in
-medical device design, including summaries of past and current student
-projects. I will also highlight recent research in acoustic radiation force
-imaging, tissue characterization with shear waves, and deep learning in
-medical imaging, and occasionally I'll upload some blog posts.
+This website contains syllabi and content for the courses that I teach in medical device design, including summaries of past and current student projects. I will also highlight recent research in acoustic radiation force imaging, tissue characterization with shear waves, and deep learning in medical imaging, and occasionally I'll upload some blog posts.
 
 # Teaching
-I actively teach [Medical Device Design I & II (BME473L & BME474L)](https://mlp6.github.io/teaching/medical-device-design) as part of the [BME Design Fellows](https://mlp6.github.io/teaching/bme-design-fellows) program and senior capstone design. You can find a summary of some student design projects here: [https://mlp6.github.io/teaching/medical-device-design](https://mlp6.github.io/teaching/medical-device-design).
+I actively teach [Medical Device Design I & II (BME473L & BME474L)](https://mlp6.github.io/teaching/medical-device-design) as part of the [BME Design Fellows](https://mlp6.github.io/teaching/bme-design-fellows) program and senior capstone design. You can find a summary of some student design projects in the [Design Portfoilo](https://mlp6.github.io/portfolio).
 
 I have also taught several other courses in the department, including Introduction to Medical Instrumentation (BME354L), and I have developed courses, including [Medical Software Design (BME547)](https://mlp6.github.io/teaching/medical-software-design) and Biomedical Circuit Analysis (BME790L).
 
