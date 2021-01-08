@@ -12,6 +12,8 @@ This is a short description of the project.
 * Student 3
 * Student 4
 
+## Clinical Sponsor
+
 ## Problem Statement
 
 ## Design Solution
