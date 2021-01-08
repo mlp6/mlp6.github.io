@@ -21,4 +21,4 @@ This is a short description of the project.
 ## Support
 In addition to the support provided by the [Department of Biomedical Engineering @ Duke University](https://bme.duke.edu), this project was also supported by [Duke MEDx](https://medx.duke.edu).
 <br/>
-<img src='/images/MEDx-Logo-CMYK-Horizontal-Standard.png'>
+<img src='/images/MEDx-Logo-CMYK-Horizontal-Standard.png' width="50%"/>
