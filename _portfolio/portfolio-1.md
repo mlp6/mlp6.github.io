@@ -19,4 +19,6 @@ This is a short description of the project.
 ## Outcomes
 
 ## Support
+[<img src='/images/BME-HorizontalLogo-Web-Blue.gif' width="50%"/>](https://bme.duke.edu)
+<br/>
 [<img src='/images/MEDx-Logo-CMYK-Horizontal-Standard.png' width="50%"/>](https://medx.duke.edu)
