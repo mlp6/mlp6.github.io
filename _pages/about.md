@@ -20,7 +20,7 @@ I actively teach [Medical Device Design I & II (BME473L & BME474L)](https://mlp6
 I have also taught several other courses in the department, including Introduction to Medical Instrumentation (BME354L), and I have developed courses, including [Medical Software Design (BME547)](https://mlp6.github.io/teaching/medical-software-design) and Biomedical Circuit Analysis (BME790L).
 
 # Latest Research News
-[TODO]
+* Check out the latest publication from the [RSNA QIBA US SWS](https://mlp6.github.io/research/rsna-qiba-us-sws) effort studying the bias between different manufacturer shear wave speed systems in elastic and viscoelastic, tissue-mimicking phantoms: ["Radiological Society of North America/Quantitative Imaging Biomarker Alliance Shear Wave Speed Bias Quantification in Elastic and Viscoelastic Phantoms"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jum.15609).
 
 # Open-Source Software and Data Repositories
 We highly value generating easily-accessible code and data for the research community.  This list highlights some of our latest shared contributions:
