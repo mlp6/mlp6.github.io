@@ -18,6 +18,8 @@ I have also taught several other courses in the department, including Introducti
 # Latest Research News
 * Check out the latest publication from the [RSNA QIBA US SWS](https://mlp6.github.io/research/rsna-qiba-us-sws) effort studying the bias between different manufacturer shear wave speed systems in elastic and viscoelastic, tissue-mimicking phantoms: ["Radiological Society of North America/Quantitative Imaging Biomarker Alliance Shear Wave Speed Bias Quantification in Elastic and Viscoelastic Phantoms"](https://onlinelibrary.wiley.com/doi/epdf/10.1002/jum.15609).
 
+* A new publication on using shear wave dispersion in to characterize cervical remodeling: ["Shear Wave Dispersion as a Potential Biomarker for Cervical Remodeling During Pregnancy: Evidence From a Non-Human Primate Model"](https://doi.org/10.3389/fphy.2020.606664).
+
 # Open-Source Software and Data Repositories
 We highly value generating easily-accessible code and data for the research community.  This list highlights some of our latest shared contributions:
 
